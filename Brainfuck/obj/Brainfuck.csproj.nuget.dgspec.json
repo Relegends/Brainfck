@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gaming\\RiderProjects\\Brainfck\\Brainfuck\\Brainfuck.csproj": {}
+    "C:\\Users\\Rafael Expósito\\RiderProjects\\Brainfuck\\Brainfuck\\Brainfuck.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gaming\\RiderProjects\\Brainfck\\Brainfuck\\Brainfuck.csproj": {
+    "C:\\Users\\Rafael Expósito\\RiderProjects\\Brainfuck\\Brainfuck\\Brainfuck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gaming\\RiderProjects\\Brainfck\\Brainfuck\\Brainfuck.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael Expósito\\RiderProjects\\Brainfuck\\Brainfuck\\Brainfuck.csproj",
         "projectName": "Brainfuck",
-        "projectPath": "C:\\Users\\Gaming\\RiderProjects\\Brainfck\\Brainfuck\\Brainfuck.csproj",
-        "packagesPath": "C:\\Users\\Gaming\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gaming\\RiderProjects\\Brainfck\\Brainfuck\\obj\\",
+        "projectPath": "C:\\Users\\Rafael Expósito\\RiderProjects\\Brainfuck\\Brainfuck\\Brainfuck.csproj",
+        "packagesPath": "C:\\Users\\Rafael Expósito\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael Expósito\\RiderProjects\\Brainfuck\\Brainfuck\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Gaming\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Rafael Expósito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
