@@ -1,0 +1,11 @@
+C:\Users\Rafael Expósito\RiderProjects\Brainfuck\Brainfuck\bin\Debug\netcoreapp3.0\Brainfuck.exe
+C:\Users\Rafael Expósito\RiderProjects\Brainfuck\Brainfuck\bin\Debug\netcoreapp3.0\Brainfuck.deps.json
+C:\Users\Rafael Expósito\RiderProjects\Brainfuck\Brainfuck\bin\Debug\netcoreapp3.0\Brainfuck.runtimeconfig.json
+C:\Users\Rafael Expósito\RiderProjects\Brainfuck\Brainfuck\bin\Debug\netcoreapp3.0\Brainfuck.runtimeconfig.dev.json
+C:\Users\Rafael Expósito\RiderProjects\Brainfuck\Brainfuck\bin\Debug\netcoreapp3.0\Brainfuck.dll
+C:\Users\Rafael Expósito\RiderProjects\Brainfuck\Brainfuck\bin\Debug\netcoreapp3.0\Brainfuck.pdb
+C:\Users\Rafael Expósito\RiderProjects\Brainfuck\Brainfuck\obj\Debug\netcoreapp3.0\Brainfuck.csprojAssemblyReference.cache
+C:\Users\Rafael Expósito\RiderProjects\Brainfuck\Brainfuck\obj\Debug\netcoreapp3.0\Brainfuck.AssemblyInfoInputs.cache
+C:\Users\Rafael Expósito\RiderProjects\Brainfuck\Brainfuck\obj\Debug\netcoreapp3.0\Brainfuck.AssemblyInfo.cs
+C:\Users\Rafael Expósito\RiderProjects\Brainfuck\Brainfuck\obj\Debug\netcoreapp3.0\Brainfuck.dll
+C:\Users\Rafael Expósito\RiderProjects\Brainfuck\Brainfuck\obj\Debug\netcoreapp3.0\Brainfuck.pdb

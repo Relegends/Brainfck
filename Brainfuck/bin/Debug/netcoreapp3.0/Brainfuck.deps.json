@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Brainfuck/1.0.0": {
+        "runtime": {
+          "Brainfuck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Brainfuck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
