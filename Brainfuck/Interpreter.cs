@@ -21,7 +21,6 @@ namespace Brainfuck {
         public void Run() {
             while (_code.Length > _stringPointer) {
                 var c = _code[_stringPointer];
-
                 _stringPointer++;
 
                 switch (c) {
